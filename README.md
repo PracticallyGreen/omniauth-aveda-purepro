@@ -40,7 +40,7 @@ end
 
 ## Authors
 
-Authored and maintained by [Rajiv Aaron Manglani](http://www.rajivmanglani.com/).
+Authored by [Rajiv Aaron Manglani](http://www.rajivmanglani.com/).
 
 ## License
 
